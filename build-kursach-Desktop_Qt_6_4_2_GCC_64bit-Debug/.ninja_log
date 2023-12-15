@@ -1,0 +1,15 @@
+# ninja log v5
+6	26	1702562917638253116	kursach_autogen/mocs_compilation.cpp	9f9b92d616f9a320
+6	26	1702562917638253116	/home/furf1n/Desktop/sketch/vuz_prog/OSprogs/kurs/build-kursach-Desktop_Qt_6_4_2_GCC_64bit-Debug/kursach_autogen/mocs_compilation.cpp	9f9b92d616f9a320
+423	5603	1702553754132760699	CMakeFiles/kursach.dir/kursach_autogen/mocs_compilation.cpp.o	e8ed0cc89484f8b7
+28	3461	1702562921074218343	CMakeFiles/kursach.dir/mainwindow.cpp.o	1ca46a082b883eb5
+6	26	1702562917638253116	kursach_autogen/timestamp	9f9b92d616f9a320
+423	5325	1702553753852762046	CMakeFiles/kursach.dir/main.cpp.o	3c5adeda8555ed7
+6	26	1702562917638253116	/home/furf1n/Desktop/sketch/vuz_prog/OSprogs/kurs/build-kursach-Desktop_Qt_6_4_2_GCC_64bit-Debug/kursach_autogen/timestamp	9f9b92d616f9a320
+3462	3868	1702562921478214331	kursach	47bfd514c61b02b1
+4	13	1702580752474482150	kursach_autogen/timestamp	9f9b92d616f9a320
+4	13	1702580752474482150	kursach_autogen/mocs_compilation.cpp	9f9b92d616f9a320
+4	13	1702580752474482150	/home/furf1n/Desktop/sketch/vuz_prog/OSprogs/kurs/build-kursach-Desktop_Qt_6_4_2_GCC_64bit-Debug/kursach_autogen/timestamp	9f9b92d616f9a320
+4	13	1702580752474482150	/home/furf1n/Desktop/sketch/vuz_prog/OSprogs/kurs/build-kursach-Desktop_Qt_6_4_2_GCC_64bit-Debug/kursach_autogen/mocs_compilation.cpp	9f9b92d616f9a320
+14	2403	1702580754862445017	CMakeFiles/kursach.dir/mainwindow.cpp.o	1ca46a082b883eb5
+2403	2703	1702580755162440359	kursach	47bfd514c61b02b1

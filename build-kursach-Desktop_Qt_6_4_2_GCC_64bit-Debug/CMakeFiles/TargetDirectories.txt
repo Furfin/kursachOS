@@ -1,0 +1,9 @@
+/home/furf1n/Desktop/sketch/vuz_prog/OSprogs/kurs/build-kursach-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/kursach.dir
+/home/furf1n/Desktop/sketch/vuz_prog/OSprogs/kurs/build-kursach-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/furf1n/Desktop/sketch/vuz_prog/OSprogs/kurs/build-kursach-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/furf1n/Desktop/sketch/vuz_prog/OSprogs/kurs/build-kursach-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/furf1n/Desktop/sketch/vuz_prog/OSprogs/kurs/build-kursach-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/furf1n/Desktop/sketch/vuz_prog/OSprogs/kurs/build-kursach-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/furf1n/Desktop/sketch/vuz_prog/OSprogs/kurs/build-kursach-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/furf1n/Desktop/sketch/vuz_prog/OSprogs/kurs/build-kursach-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/kursach_autogen_timestamp_deps.dir
+/home/furf1n/Desktop/sketch/vuz_prog/OSprogs/kurs/build-kursach-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/kursach_autogen.dir
